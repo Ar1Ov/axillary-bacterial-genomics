@@ -42,7 +42,7 @@ Dependencies include NumPy, pandas, SciPy, statsmodels, Matplotlib, Biopython, P
 | `data/cohort_manifest.tsv` | Genome IDs and available cohort/project/site information. The same genome can appear in several analysis arms; this is not a list of independent samples. |
 | `data/figures/` | The exact tables and Newick trees read by the figure-generation script. |
 | `data/archive/` | Selected archived metadata, feature and presence tables, cohorts, BLAST alignments, reference sequences, neighborhood results, and analysis outputs. Larger text files are compressed as `.gz`. |
-| `scripts/generate_figures.py` | Generates all seven figures directly from the bundled tables and trees. |
+| `scripts/generate_figures.py` | Generates Figures 2-7 directly from the bundled tables and trees. |
 | `scripts/run_analysis.py` | Prepares an isolated workspace and invokes an analysis. |
 | `scripts/run_control_sensitivity.py` | Checks the primary result and repeats the analysis with four additional controls. |
 | `scripts/archived/` | Original analysis scripts retained for provenance and further inspection. |
