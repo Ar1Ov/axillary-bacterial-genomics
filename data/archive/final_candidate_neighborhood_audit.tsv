@@ -1,0 +1,101 @@
+﻿candidate_system	pgfam_id	role	analysis_arm	group	carrier_genomes	target_occurrences	mobile_context_occurrences	mobile_context_fraction	colocalized_shortlist_occurrences	colocalized_shortlist_fraction	mean_transport_neighbors	mean_metabolic_neighbors
+ABC antimicrobial-peptide transport ATPase	PGF_10347576	CANDIDATE	cory	AXILLA	16	17	0	0.0	2	0.11764705882352941	0.29411764705882354	2.176470588235294
+ABC antimicrobial-peptide transport ATPase	PGF_10347576	CANDIDATE	cory	OTHER_SKIN	5	7	0	0.0	0	0.0	0.42857142857142855	0.7142857142857143
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	cory	AXILLA	4	5	5	1.0	2	0.4	0.4	2.8
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	cory	OTHER_SKIN	1	1	1	1.0	0	0.0	0.0	2.0
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	4.0	2.0
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	0	0.0	8.0	4.0
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	epi_strict	AXILLA	5	6	2	0.3333333333333333	2	0.3333333333333333	2.8333333333333335	1.8333333333333333
+Arginine/ornithine antiporter ArcD	PGF_09519210	CANDIDATE	epi_strict	OTHER_SKIN	116	104	3	0.028846153846153848	8	0.07692307692307693	3.875	1.9615384615384615
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	5.0	2.0
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	0	0.0	10.0	4.0
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	epi_strict	AXILLA	4	4	0	0.0	0	0.0	5.0	2.0
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	epi_strict	OTHER_SKIN	116	95	0	0.0	0	0.0	5.021052631578947	1.9789473684210526
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	haem	AXILLA	3	3	0	0.0	0	0.0	2.6666666666666665	2.3333333333333335
+Carnitine-utilization associated thioesterase	PGF_02502423	CANDIDATE	haem	OTHER_SKIN	1	1	0	0.0	0	0.0	4.0	4.0
+ECF transporter - ATPase component	PGF_03285992	CANDIDATE	cory	AXILLA	10	11	11	1.0	8	0.7272727272727273	3.3636363636363638	0.9090909090909091
+ECF transporter - ATPase component	PGF_03285992	CANDIDATE	cory	OTHER_SKIN	1	1	1	1.0	1	1.0	4.0	2.0
+ECF transporter - transmembrane component	PGF_00267745	CANDIDATE	cory	AXILLA	8	8	8	1.0	8	1.0	3.375	0.5
+ECF transporter - transmembrane component	PGF_00267745	CANDIDATE	cory	OTHER_SKIN	1	1	1	1.0	1	1.0	4.0	2.0
+Esterase/lipase	PGF_00424827	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	1.0	5.0
+Esterase/lipase	PGF_00424827	CANDIDATE	epi_same	OTHER_SKIN	22	22	1	0.045454545454545456	0	0.0	1.0	10.0
+Esterase/lipase	PGF_00424827	CANDIDATE	epi_strict	AXILLA	5	5	0	0.0	0	0.0	0.4	5.0
+Esterase/lipase	PGF_00424827	CANDIDATE	epi_strict	OTHER_SKIN	115	95	20	0.21052631578947367	4	0.042105263157894736	0.5052631578947369	5.021052631578947
+Esterase/lipase	PGF_00424827	CANDIDATE	haem	AXILLA	4	4	0	0.0	0	0.0	0.0	4.25
+Esterase/lipase	PGF_00424827	CANDIDATE	haem	OTHER_SKIN	7	7	0	0.0	0	0.0	0.0	3.2857142857142856
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	epi_same	AXILLARY_GROIN	3	3	3	1.0	0	0.0	0.0	2.0
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	epi_same	OTHER_SKIN	11	11	5	0.45454545454545453	0	0.0	0.9090909090909091	2.0
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	epi_strict	AXILLA	4	4	4	1.0	0	0.0	0.0	2.0
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	epi_strict	OTHER_SKIN	61	50	48	0.96	0	0.0	0.06	1.56
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	haem	AXILLA	4	4	0	0.0	0	0.0	1.0	1.0
+Glycine betaine/L-proline transporter ProW	PGF_00008726	CANDIDATE	haem	OTHER_SKIN	7	7	0	0.0	0	0.0	1.0	1.0
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	cory	AXILLA	16	18	0	0.0	0	0.0	0.2222222222222222	3.0
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	cory	OTHER_SKIN	8	11	1	0.09090909090909091	0	0.0	0.45454545454545453	2.8181818181818183
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	2.0	4.0
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	epi_same	OTHER_SKIN	14	14	1	0.07142857142857142	0	0.0	3.857142857142857	8.0
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	epi_strict	AXILLA	5	5	0	0.0	0	0.0	2.0	4.0
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	epi_strict	OTHER_SKIN	104	90	29	0.32222222222222224	0	0.0	1.5444444444444445	3.988888888888889
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	haem	AXILLA	4	7	0	0.0	6	0.8571428571428571	1.4285714285714286	4.857142857142857
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	CANDIDATE	haem	OTHER_SKIN	7	14	0	0.0	14	1.0	1.6428571428571428	4.0
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	cory	AXILLA	2	2	0	0.0	0	0.0	4.0	1.0
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	cory	OTHER_SKIN	3	3	0	0.0	0	0.0	3.6666666666666665	1.6666666666666667
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	4	1.0	4.0	1.0
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	21	1.0	8.0	3.619047619047619
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	epi_strict	AXILLA	5	5	2	0.4	5	1.0	4.0	1.2
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	epi_strict	OTHER_SKIN	115	94	20	0.2127659574468085	94	1.0	4.01063829787234	1.446808510638298
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	haem	AXILLA	4	4	0	0.0	4	1.0	4.0	1.5
+Opp oligopeptide transport - OppA	PGF_02147779	CANDIDATE	haem	OTHER_SKIN	7	10	0	0.0	10	1.0	7.1	0.4
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	cory	AXILLA	13	13	0	0.0	1	0.07692307692307693	2.3846153846153846	0.0
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	cory	OTHER_SKIN	3	3	0	0.0	3	1.0	3.0	0.0
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	4	1.0	4.0	3.0
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	21	1.0	8.0	6.0
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	epi_strict	AXILLA	5	5	2	0.4	5	1.0	4.0	3.0
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	epi_strict	OTHER_SKIN	115	95	25	0.2631578947368421	95	1.0	4.021052631578947	2.957894736842105
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	haem	AXILLA	4	5	0	0.0	4	0.8	3.4	2.2
+Opp oligopeptide transport - OppB	PGF_00977978	CANDIDATE	haem	OTHER_SKIN	7	10	0	0.0	10	1.0	4.9	1.2
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	cory	AXILLA	1	1	0	0.0	1	1.0	3.0	0.0
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	cory	OTHER_SKIN	3	3	0	0.0	3	1.0	3.0	0.0
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	4	1.0	4.0	3.0
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	21	1.0	8.0	6.0
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	epi_strict	AXILLA	5	5	0	0.0	5	1.0	4.0	3.0
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	epi_strict	OTHER_SKIN	115	95	0	0.0	94	0.9894736842105263	3.968421052631579	2.9368421052631577
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	haem	AXILLA	4	4	0	0.0	4	1.0	4.0	2.75
+Opp oligopeptide transport - OppC	PGF_10569020	CANDIDATE	haem	OTHER_SKIN	7	10	0	0.0	10	1.0	4.9	1.5
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	4	1.0	4.0	3.0
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	21	1.0	8.0	6.0
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	epi_strict	AXILLA	5	5	2	0.4	5	1.0	4.0	3.0
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	epi_strict	OTHER_SKIN	115	94	20	0.2127659574468085	94	1.0	4.01063829787234	2.9468085106382977
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	haem	AXILLA	4	6	0	0.0	4	0.6666666666666666	4.0	2.1666666666666665
+Opp oligopeptide transport - OppD	PGF_09990804	CANDIDATE	haem	OTHER_SKIN	7	17	0	0.0	10	0.5882352941176471	5.294117647058823	1.1176470588235294
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	epi_same	AXILLARY_GROIN	4	4	0	0.0	4	1.0	4.0	2.0
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	epi_same	OTHER_SKIN	21	21	0	0.0	21	1.0	8.0	4.0
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	epi_strict	AXILLA	5	5	2	0.4	5	1.0	4.0	2.0
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	epi_strict	OTHER_SKIN	115	94	20	0.2127659574468085	94	1.0	4.01063829787234	1.9680851063829787
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	haem	AXILLA	4	4	0	0.0	4	1.0	4.0	1.75
+Opp oligopeptide transport - OppF	PGF_07131324	CANDIDATE	haem	OTHER_SKIN	7	10	0	0.0	10	1.0	6.1	0.8
+Uncharacterized MFS-type transporter	PGF_00799792	CANDIDATE	epi_same	OTHER_SKIN	14	14	0	0.0	0	0.0	0.2857142857142857	2.0
+Uncharacterized MFS-type transporter	PGF_00799792	CANDIDATE	epi_strict	AXILLA	2	2	0	0.0	0	0.0	0.5	1.5
+Uncharacterized MFS-type transporter	PGF_00799792	CANDIDATE	epi_strict	OTHER_SKIN	78	65	5	0.07692307692307693	2	0.03076923076923077	0.676923076923077	1.353846153846154
+Uncharacterized MFS-type transporter	PGF_00799792	CANDIDATE	haem	AXILLA	3	3	1	0.3333333333333333	0	0.0	0.3333333333333333	0.3333333333333333
+Known control - Corynebacterium AecD/MetC-like lyase	PGF_03133617	CONTROL	cory	AXILLA	16	16	0	0.0	0	0.0	2.3125	0.4375
+Known control - Corynebacterium AecD/MetC-like lyase	PGF_03133617	CONTROL	cory	OTHER_SKIN	8	8	0	0.0	0	0.0	1.875	1.25
+Known control - DtpT	PGF_02030730	CONTROL	cory	AXILLA	16	23	1	0.043478260869565216	2	0.08695652173913043	0.6956521739130435	3.5217391304347827
+Known control - DtpT	PGF_02030730	CONTROL	cory	OTHER_SKIN	8	13	0	0.0	0	0.0	0.38461538461538464	4.0
+Known control - DtpT	PGF_02030730	CONTROL	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	1.0	5.0
+Known control - DtpT	PGF_02030730	CONTROL	epi_same	OTHER_SKIN	22	24	4	0.16666666666666666	4	0.16666666666666666	3.1666666666666665	9.666666666666666
+Known control - DtpT	PGF_02030730	CONTROL	epi_strict	AXILLA	5	5	0	0.0	0	0.0	1.0	5.0
+Known control - DtpT	PGF_02030730	CONTROL	epi_strict	OTHER_SKIN	117	95	1	0.010526315789473684	0	0.0	1.2210526315789474	4.957894736842105
+Known control - DtpT	PGF_02030730	CONTROL	haem	AXILLA	4	8	0	0.0	8	1.0	4.0	3.0
+Known control - DtpT	PGF_02030730	CONTROL	haem	OTHER_SKIN	7	14	0	0.0	8	0.5714285714285714	2.7142857142857144	1.9285714285714286
+Known control - PepV	PGF_00039817	CONTROL	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	0.0	5.0
+Known control - PepV	PGF_00039817	CONTROL	epi_same	OTHER_SKIN	22	22	0	0.0	0	0.0	0.0	10.0
+Known control - PepV	PGF_00039817	CONTROL	epi_strict	AXILLA	5	5	0	0.0	0	0.0	0.0	5.0
+Known control - PepV	PGF_00039817	CONTROL	epi_strict	OTHER_SKIN	117	95	2	0.021052631578947368	0	0.0	0.0	4.968421052631579
+Known control - PepV	PGF_00039817	CONTROL	haem	AXILLA	4	4	2	0.5	0	0.0	0.0	3.5
+Known control - PepV	PGF_00039817	CONTROL	haem	OTHER_SKIN	7	7	2	0.2857142857142857	0	0.0	0.0	2.4285714285714284
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	epi_same	AXILLARY_GROIN	4	4	0	0.0	0	0.0	1.0	5.0
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	epi_same	OTHER_SKIN	22	22	0	0.0	0	0.0	2.0	10.0
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	epi_strict	AXILLA	5	5	0	0.0	0	0.0	1.0	5.0
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	epi_strict	OTHER_SKIN	117	95	2	0.021052631578947368	0	0.0	1.0	4.936842105263158
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	haem	AXILLA	4	4	0	0.0	0	0.0	2.0	4.0
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	CONTROL	haem	OTHER_SKIN	7	7	0	0.0	0	0.0	1.5714285714285714	4.0

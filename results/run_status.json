@@ -1,0 +1,16 @@
+{
+  "baseline_matches_saved": true,
+  "baseline": {
+    "observed_families": 4410,
+    "tested_families": 1485,
+    "significant_axilla_enriched": 0,
+    "significant_axilla_depleted": 5
+  },
+  "expanded_run_completed": true,
+  "expanded": {
+    "observed_families": 4465,
+    "tested_families": 1528,
+    "significant_axilla_enriched": 0,
+    "significant_axilla_depleted": 2
+  }
+}

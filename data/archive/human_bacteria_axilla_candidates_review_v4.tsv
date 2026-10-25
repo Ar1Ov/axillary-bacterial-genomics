@@ -1,0 +1,139 @@
+﻿genome.genome_id	genome.bioproject_accession	genome.species	genome.body_sample_site	genome.body_sample_subsite	genome.isolation_site	genome.isolation_source	genome.isolation_comments	genome.checkm_completeness	genome.checkm_contamination	checkm_completeness_num	checkm_contamination_num	qc_pass	valid_named_species	structured_site_text	comments_text	classification_source	site_class	comments_class	comments_have_axilla	structured_have_axilla	needs_manual_review	any_axilla_term
+2041036.6	PRJNA1191350	Corynebacterium gottingense				axilla		100	1	100.0	1.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+173362.13	PRJNA803478	Brachybacterium paraconglomeratum				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1351.5325	PRJNA485681	Enterococcus faecalis				Armpit		99.88	0.97	99.88	0.97	True	True	armpit		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1774.54	PRJNA347845	Mycobacteroides chelonae				soft tissue (axilla)		100	0	100.0	0.0	True	True	soft tissue (axilla)		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+1210518.3	PRJNA170747	Francisella tularensis				axillary lesion		100	0	100.0	0.0	True	True	axillary lesion		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+1282.5281	PRJNA803478	Staphylococcus epidermidis				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.5285	PRJNA803478	Staphylococcus epidermidis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.5286	PRJNA803478	Staphylococcus epidermidis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.5287	PRJNA803478	Staphylococcus epidermidis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.7880	PRJNA1191350	Staphylococcus epidermidis				axilla		100	0.4	100.0	0.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1282.7881	PRJNA1191350	Staphylococcus epidermidis				axilla		100	0	100.0	0.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1282.8515	PRJNA1219549	Staphylococcus epidermidis				tropical superficial axillary dermatitis		99.8	0	99.8	0.0	True	True	tropical superficial axillary dermatitis		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+1283.1324	PRJNA803478	Staphylococcus haemolyticus				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1283.1325	PRJNA803478	Staphylococcus haemolyticus				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1283.820	PRJEB32204	Staphylococcus haemolyticus				Armpit		99.82	0	99.82	0.0	True	True	armpit		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1283.849	PRJEB32204	Staphylococcus haemolyticus				Armpit		99.82	0.54	99.82	0.54	True	True	armpit		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1283.854	PRJEB32204	Staphylococcus haemolyticus				Armpit		99.82	0.89	99.82	0.89	True	True	armpit		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1283.857	PRJEB32204	Staphylococcus haemolyticus				Armpit		99.82	0.72	99.82	0.72	True	True	armpit		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1290.478	PRJNA803478	Staphylococcus hominis				Axillary-groin Swab		100	0.2	100.0	0.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1290.727	PRJNA1191350	Staphylococcus hominis				axilla		100	0.2	100.0	0.2	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1290.728	PRJNA1191350	Staphylococcus hominis				axilla		100	0	100.0	0.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1273.13	PRJNA803478	Micrococcus lylae				Axillary-groin swab		98.8	1	98.8	1.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1273.14	PRJNA803478	Micrococcus lylae				Axillary-groin swab		99.1	1.4	99.1	1.4	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1280.11679	PRJNA312385	Staphylococcus aureus				Pus left axilla		100	0	100.0	0.0	True	True	pus left axilla		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+1280.11688	PRJNA312385	Staphylococcus aureus				Pus axilla		100	0	100.0	0.0	True	True	pus axilla		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+1280.38995	PRJNA685142	Staphylococcus aureus				ares, bilateral axilla, umbilical stump, and inguinal region		99.81	0	99.81	0.0	True	True	ares, bilateral axilla, umbilical stump, and inguinal region		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1280.43528	PRJNA803478	Staphylococcus aureus				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2270	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2271	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	2.1	100.0	2.1	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2272	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0.7	100.0	0.7	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2273	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2274	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2275	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2276	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2277	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2278	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2279	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	2.8	100.0	2.8	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2280	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2281	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2282	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2283	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2284	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2285	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2286	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2287	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2288	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2289	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0	100.0	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2290	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0.7	100.0	0.7	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2291	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	3.5	100.0	3.5	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2292	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		100	0.7	100.0	0.7	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2852	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	1.25	99.82	1.25	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2853	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2854	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2855	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2856	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2857	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0.36	99.82	0.36	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2858	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2859	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2860	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2861	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2865	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1282.2866	PRJNA415995	Staphylococcus epidermidis				Neck/Axilla		99.82	0	99.82	0.0	True	True	neck/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1979527.49	PRJNA1191350	Corynebacterium kefirresidentii				axilla		96.9	2.2	96.9	2.2	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1979527.50	PRJNA1191350	Corynebacterium kefirresidentii				axilla		97.1	2	97.1	2.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1979527.51	PRJNA1191350	Corynebacterium kefirresidentii				axilla		96.7	3.8	96.7	3.8	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1979527.52	PRJNA1191350	Corynebacterium kefirresidentii				axilla		96.6	3.2	96.6	3.2	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+1979527.53	PRJNA1191350	Corynebacterium kefirresidentii				axilla		97.1	2	97.1	2.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+199591.22	PRJNA803478	Brevibacterium luteolum				Axillary-groin Swab		99.8	0.4	99.8	0.4	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.23	PRJNA803478	Brevibacterium luteolum				Axillary-groin swab		95.8	0	95.8	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.24	PRJNA803478	Brevibacterium luteolum				Axillary-groin swab		99.8	0.4	99.8	0.4	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.25	PRJNA803478	Brevibacterium luteolum				Axillary-groin swab		98.9	0.2	98.9	0.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.26	PRJNA803478	Brevibacterium luteolum				Axillary-groin swab		99.6	0.2	99.6	0.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.27	PRJNA803478	Brevibacterium luteolum				Axillary-groin Swab		98.9	0.2	98.9	0.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+199591.28	PRJNA803478	Brevibacterium luteolum				Axillary-groin swab		99.8	0.4	99.8	0.4	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+306537.10	PRJNA13967	Corynebacterium jeikeium				the axilla of a bone marrow transplant patient	isolated from the axilla of a bone marrow transplant patient	100	0.8	100.0	0.8	True	True	the axilla of a bone marrow transplant patient	isolated from the axilla of a bone marrow transplant patient	STRUCTURED	EXCLUDE_CLINICAL	EXCLUDE_CLINICAL	True	True	False	True
+321318.38	PRJNA803478	Dietzia cinnamea				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+321318.39	PRJNA803478	Dietzia cinnamea				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+321318.40	PRJNA803478	Dietzia cinnamea				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+1377.45	PRJNA803478	Aerococcus viridans				Axillary-groin swab		99.8	1.2	99.8	1.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+72000.73	PRJNA803478	Kocuria rhizophila				Axillary-groin swab		98.4	0.4	98.4	0.4	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+72000.74	PRJNA803478	Kocuria rhizophila				Axillary-groin Swab		98.9	0.1	98.9	0.1	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+72000.75	PRJNA803478	Kocuria rhizophila				Axillary-groin swab		99.1	0.1	99.1	0.1	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+72000.76	PRJNA803478	Kocuria rhizophila				Axillary-groin swab		99.1	0.1	99.1	0.1	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+60552.124	PRJNA720893	Burkholderia vietnamiensis				Axilla		100	0	100.0	0.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+573.29101	PRJNA565865	Klebsiella pneumoniae				Axillary smear		99.78	0	99.78	0.0	True	True	axillary smear		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+573.29104	PRJNA565865	Klebsiella pneumoniae				Axillary smear		99.78	0	99.78	0.0	True	True	axillary smear		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+582851.11	PRJNA803478	Oceanobacillus sojae				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+562.186208	PRJNA1238219	Escherichia coli				Axillary swab		100	0.1	100.0	0.1	True	True	axillary swab		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+562.186210	PRJNA1238219	Escherichia coli				Axillary swab		100	0.2	100.0	0.2	True	True	axillary swab		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+562.186214	PRJNA1238219	Escherichia coli				Axillary swab		100	0.1	100.0	0.1	True	True	axillary swab		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+28035.20	PRJNA231221	Staphylococcus lugdunensis				Axillary lymph node		97.8	2.2	97.8	2.2	True	True	axillary lymph node		STRUCTURED	EXCLUDE_CLINICAL	UNKNOWN	False	True	False	True
+28035.291	PRJNA803478	Staphylococcus lugdunensis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+43765.348	PRJNA1191350	Corynebacterium amycolatum				axilla		100	0.3	100.0	0.3	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+43765.349	PRJNA1191350	Corynebacterium amycolatum				axilla		100	0.4	100.0	0.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+36740.27	PRJNA803478	Dermabacter hominis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+36740.28	PRJNA803478	Dermabacter hominis				Axillary-groin swab		100	4	100.0	4.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+40216.265	PRJNA288601	Acinetobacter radioresistens				Axilla/groin swab		100	0	100.0	0.0	True	True	axilla/groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+40216.266	PRJNA288601	Acinetobacter radioresistens				Axilla/groin swab		100	0.4	100.0	0.4	True	True	axilla/groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+40216.390	PRJNA288601	Acinetobacter radioresistens				Axilla/groin swab		100	0.2	100.0	0.2	True	True	axilla/groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+45972.112	PRJNA803478	Staphylococcus pasteuri				Axillary-groin swab		97.1	2.8	97.1	2.8	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+38304.67	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.2	3.6	95.2	3.6	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.68	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.1	4.3	95.1	4.3	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.69	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.5	2.4	95.5	2.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.70	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		100	4	100.0	4.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.71	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.5	1.8	95.5	1.8	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.72	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.6	2.6	95.6	2.6	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.73	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.4	1.8	95.4	1.8	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.74	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.1	2.4	95.1	2.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+38304.75	PRJNA1191350	Corynebacterium tuberculostearicum				axilla		95.4	1.7	95.4	1.7	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383589.3	PRJNA1191350	Corynebacterium axilliensis				axilla		96.7	4.6	96.7	4.6	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383589.4	PRJNA1191350	Corynebacterium axilliensis				axilla		96.7	4.6	96.7	4.6	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383590.3	PRJNA1191350	Corynebacterium jamesii				axilla		97.8	2.9	97.8	2.9	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383590.4	PRJNA1191350	Corynebacterium jamesii				axilla		97.8	2.9	97.8	2.9	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383591.3	PRJNA1191350	Corynebacterium axilliensis				axilla		97	3.9	97.0	3.9	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+3383591.4	PRJNA1191350	Corynebacterium axilliensis				axilla		97	3.9	97.0	3.9	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+33889.45	PRJNA803478	Brevibacterium casei				Axillary-groin Swab		98.9	0.7	98.9	0.7	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+521392.10	PRJNA803478	Helcobacillus massiliensis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+521392.11	PRJNA803478	Helcobacillus massiliensis				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+521392.9	PRJNA803478	Helcobacillus massiliensis				Axillary-groin Swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+548.1102	PRJNA803478	Klebsiella aerogenes				Axillary-groin swab		100	0.2	100.0	0.2	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+470.1770	PRJNA271775	Acinetobacter baumannii				groin/axilla		100	0.5	100.0	0.5	True	True	groin/axilla		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+287.47809	PRJNA1336694	Pseudomonas aeruginosa				axilla/inguinal swab		98.6	2.1	98.6	2.1	True	True	axilla/inguinal swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+29388.576	PRJNA1191350	Staphylococcus capitis				axilla		100	0.4	100.0	0.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.20	PRJNA1191350	Corynebacterium marquesiae				axilla		96.5	3.1	96.5	3.1	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.21	PRJNA1191350	Corynebacterium marquesiae				axilla		96.2	2	96.2	2.0	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.22	PRJNA1191350	Corynebacterium marquesiae				axilla		96.2	1.2	96.2	1.2	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.23	PRJNA1191350	Corynebacterium marquesiae				axilla		96	2.1	96.0	2.1	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.24	PRJNA1191350	Corynebacterium marquesiae				axilla		96	1.4	96.0	1.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.25	PRJNA1191350	Corynebacterium marquesiae				axilla		96.1	2.7	96.1	2.7	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.26	PRJNA1191350	Corynebacterium marquesiae				axilla		96.4	1.9	96.4	1.9	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.27	PRJNA1191350	Corynebacterium marquesiae				axilla		95.2	2.4	95.2	2.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.28	PRJNA1191350	Corynebacterium marquesiae				axilla		96.2	2.8	96.2	2.8	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+2913503.29	PRJNA1191350	Corynebacterium marquesiae				axilla		95.5	2.8	95.5	2.8	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+300181.142	PRJNA803478	Serratia ureilytica				Axillary-groin swab		100	0	100.0	0.0	True	True	axillary-groin swab		STRUCTURED	BROAD_AXILLA	UNKNOWN	False	True	False	True
+979203.3	PRJNA62353	Staphylococcus epidermidis				axilla		100	0.7	100.0	0.7	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+979212.3	PRJNA62373	Staphylococcus epidermidis				axilla		100	1.4	100.0	1.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+979213.3	PRJNA62375	Staphylococcus epidermidis				axilla		100	1.4	100.0	1.4	True	True	axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True
+623.5443	PRJNA218110	Shigella flexneri				SWAB OF AXILLA		99.7	0.2	99.7	0.2	True	True	swab of axilla		STRUCTURED	STRICT_AXILLA	UNKNOWN	False	True	False	True

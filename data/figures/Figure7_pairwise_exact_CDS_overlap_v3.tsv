@@ -1,0 +1,16 @@
+reference_1	reference_2	pair	both_detected	same_exact_CDS	pct_same_exact_CDS	pair_order
+DtpT	PepV	DtpT–PepV	145	0	0.0	0
+DtpT	PatB	DtpT–PatB	182	0	0.0	1
+DtpT	AgaA	DtpT–AgaA	182	0	0.0	2
+DtpT	TpdA	DtpT–TpdA	179	0	0.0	3
+DtpT	AecD	DtpT–AecD	181	0	0.0	4
+PepV	PatB	PepV–PatB	145	0	0.0	5
+PepV	AgaA	PepV–AgaA	145	0	0.0	6
+PepV	TpdA	PepV–TpdA	142	0	0.0	7
+PepV	AecD	PepV–AecD	144	0	0.0	8
+PatB	AgaA	PatB–AgaA	186	0	0.0	9
+PatB	TpdA	PatB–TpdA	183	0	0.0	10
+PatB	AecD	PatB–AecD	185	184	99.45945945945945	11
+AgaA	TpdA	AgaA–TpdA	183	0	0.0	12
+AgaA	AecD	AgaA–AecD	185	0	0.0	13
+TpdA	AecD	TpdA–AecD	182	0	0.0	14

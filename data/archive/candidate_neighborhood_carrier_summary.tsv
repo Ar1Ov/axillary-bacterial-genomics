@@ -1,0 +1,101 @@
+﻿candidate_system	feature.pgfam_id	analysis_arm	group	carrier_genomes
+ABC antimicrobial-peptide transport ATPase	PGF_10347576	cory	AXILLA	16
+ABC antimicrobial-peptide transport ATPase	PGF_10347576	cory	OTHER_SKIN	5
+Arginine/ornithine antiporter ArcD	PGF_09519210	cory	AXILLA	4
+Arginine/ornithine antiporter ArcD	PGF_09519210	cory	OTHER_SKIN	1
+Arginine/ornithine antiporter ArcD	PGF_09519210	epi_same	AXILLARY_GROIN	4
+Arginine/ornithine antiporter ArcD	PGF_09519210	epi_same	OTHER_SKIN	21
+Arginine/ornithine antiporter ArcD	PGF_09519210	epi_strict	AXILLA	5
+Arginine/ornithine antiporter ArcD	PGF_09519210	epi_strict	OTHER_SKIN	116
+Carnitine-utilization associated thioesterase	PGF_02502423	epi_same	AXILLARY_GROIN	4
+Carnitine-utilization associated thioesterase	PGF_02502423	epi_same	OTHER_SKIN	21
+Carnitine-utilization associated thioesterase	PGF_02502423	epi_strict	AXILLA	4
+Carnitine-utilization associated thioesterase	PGF_02502423	epi_strict	OTHER_SKIN	116
+Carnitine-utilization associated thioesterase	PGF_02502423	haem	AXILLA	3
+Carnitine-utilization associated thioesterase	PGF_02502423	haem	OTHER_SKIN	1
+ECF transporter - ATPase component	PGF_03285992	cory	AXILLA	10
+ECF transporter - ATPase component	PGF_03285992	cory	OTHER_SKIN	1
+ECF transporter - transmembrane component	PGF_00267745	cory	AXILLA	8
+ECF transporter - transmembrane component	PGF_00267745	cory	OTHER_SKIN	1
+Esterase/lipase	PGF_00424827	epi_same	AXILLARY_GROIN	4
+Esterase/lipase	PGF_00424827	epi_same	OTHER_SKIN	22
+Esterase/lipase	PGF_00424827	epi_strict	AXILLA	5
+Esterase/lipase	PGF_00424827	epi_strict	OTHER_SKIN	115
+Esterase/lipase	PGF_00424827	haem	AXILLA	4
+Esterase/lipase	PGF_00424827	haem	OTHER_SKIN	7
+Glycine betaine/L-proline transporter ProW	PGF_00008726	epi_same	AXILLARY_GROIN	3
+Glycine betaine/L-proline transporter ProW	PGF_00008726	epi_same	OTHER_SKIN	11
+Glycine betaine/L-proline transporter ProW	PGF_00008726	epi_strict	AXILLA	4
+Glycine betaine/L-proline transporter ProW	PGF_00008726	epi_strict	OTHER_SKIN	61
+Glycine betaine/L-proline transporter ProW	PGF_00008726	haem	AXILLA	4
+Glycine betaine/L-proline transporter ProW	PGF_00008726	haem	OTHER_SKIN	7
+Known control - Corynebacterium AecD/MetC-like lyase	PGF_03133617	cory	AXILLA	16
+Known control - Corynebacterium AecD/MetC-like lyase	PGF_03133617	cory	OTHER_SKIN	8
+Known control - DtpT	PGF_02030730	cory	AXILLA	16
+Known control - DtpT	PGF_02030730	cory	OTHER_SKIN	8
+Known control - DtpT	PGF_02030730	epi_same	AXILLARY_GROIN	4
+Known control - DtpT	PGF_02030730	epi_same	OTHER_SKIN	22
+Known control - DtpT	PGF_02030730	epi_strict	AXILLA	5
+Known control - DtpT	PGF_02030730	epi_strict	OTHER_SKIN	117
+Known control - DtpT	PGF_02030730	haem	AXILLA	4
+Known control - DtpT	PGF_02030730	haem	OTHER_SKIN	7
+Known control - PepV	PGF_00039817	epi_same	AXILLARY_GROIN	4
+Known control - PepV	PGF_00039817	epi_same	OTHER_SKIN	22
+Known control - PepV	PGF_00039817	epi_strict	AXILLA	5
+Known control - PepV	PGF_00039817	epi_strict	OTHER_SKIN	117
+Known control - PepV	PGF_00039817	haem	AXILLA	4
+Known control - PepV	PGF_00039817	haem	OTHER_SKIN	7
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	epi_same	AXILLARY_GROIN	4
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	epi_same	OTHER_SKIN	22
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	epi_strict	AXILLA	5
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	epi_strict	OTHER_SKIN	117
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	haem	AXILLA	4
+Known control - Staphylococcus MetC-like lyase	PGF_03788463	haem	OTHER_SKIN	7
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	cory	AXILLA	16
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	cory	OTHER_SKIN	8
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	epi_same	AXILLARY_GROIN	4
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	epi_same	OTHER_SKIN	14
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	epi_strict	AXILLA	5
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	epi_strict	OTHER_SKIN	104
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	haem	AXILLA	4
+N-acyl-L-amino-acid amidohydrolase	PGF_10543640	haem	OTHER_SKIN	7
+Opp oligopeptide transport - OppA	PGF_02147779	cory	AXILLA	2
+Opp oligopeptide transport - OppA	PGF_02147779	cory	OTHER_SKIN	3
+Opp oligopeptide transport - OppA	PGF_02147779	epi_same	AXILLARY_GROIN	4
+Opp oligopeptide transport - OppA	PGF_02147779	epi_same	OTHER_SKIN	21
+Opp oligopeptide transport - OppA	PGF_02147779	epi_strict	AXILLA	5
+Opp oligopeptide transport - OppA	PGF_02147779	epi_strict	OTHER_SKIN	115
+Opp oligopeptide transport - OppA	PGF_02147779	haem	AXILLA	4
+Opp oligopeptide transport - OppA	PGF_02147779	haem	OTHER_SKIN	7
+Opp oligopeptide transport - OppB	PGF_00977978	cory	AXILLA	13
+Opp oligopeptide transport - OppB	PGF_00977978	cory	OTHER_SKIN	3
+Opp oligopeptide transport - OppB	PGF_00977978	epi_same	AXILLARY_GROIN	4
+Opp oligopeptide transport - OppB	PGF_00977978	epi_same	OTHER_SKIN	21
+Opp oligopeptide transport - OppB	PGF_00977978	epi_strict	AXILLA	5
+Opp oligopeptide transport - OppB	PGF_00977978	epi_strict	OTHER_SKIN	115
+Opp oligopeptide transport - OppB	PGF_00977978	haem	AXILLA	4
+Opp oligopeptide transport - OppB	PGF_00977978	haem	OTHER_SKIN	7
+Opp oligopeptide transport - OppC	PGF_10569020	cory	AXILLA	1
+Opp oligopeptide transport - OppC	PGF_10569020	cory	OTHER_SKIN	3
+Opp oligopeptide transport - OppC	PGF_10569020	epi_same	AXILLARY_GROIN	4
+Opp oligopeptide transport - OppC	PGF_10569020	epi_same	OTHER_SKIN	21
+Opp oligopeptide transport - OppC	PGF_10569020	epi_strict	AXILLA	5
+Opp oligopeptide transport - OppC	PGF_10569020	epi_strict	OTHER_SKIN	115
+Opp oligopeptide transport - OppC	PGF_10569020	haem	AXILLA	4
+Opp oligopeptide transport - OppC	PGF_10569020	haem	OTHER_SKIN	7
+Opp oligopeptide transport - OppD	PGF_09990804	epi_same	AXILLARY_GROIN	4
+Opp oligopeptide transport - OppD	PGF_09990804	epi_same	OTHER_SKIN	21
+Opp oligopeptide transport - OppD	PGF_09990804	epi_strict	AXILLA	5
+Opp oligopeptide transport - OppD	PGF_09990804	epi_strict	OTHER_SKIN	115
+Opp oligopeptide transport - OppD	PGF_09990804	haem	AXILLA	4
+Opp oligopeptide transport - OppD	PGF_09990804	haem	OTHER_SKIN	7
+Opp oligopeptide transport - OppF	PGF_07131324	epi_same	AXILLARY_GROIN	4
+Opp oligopeptide transport - OppF	PGF_07131324	epi_same	OTHER_SKIN	21
+Opp oligopeptide transport - OppF	PGF_07131324	epi_strict	AXILLA	5
+Opp oligopeptide transport - OppF	PGF_07131324	epi_strict	OTHER_SKIN	115
+Opp oligopeptide transport - OppF	PGF_07131324	haem	AXILLA	4
+Opp oligopeptide transport - OppF	PGF_07131324	haem	OTHER_SKIN	7
+Uncharacterized MFS-type transporter	PGF_00799792	epi_same	OTHER_SKIN	14
+Uncharacterized MFS-type transporter	PGF_00799792	epi_strict	AXILLA	2
+Uncharacterized MFS-type transporter	PGF_00799792	epi_strict	OTHER_SKIN	78
+Uncharacterized MFS-type transporter	PGF_00799792	haem	AXILLA	3
