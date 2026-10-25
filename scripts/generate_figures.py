@@ -55,40 +55,6 @@ def save(f,n,title):
 
 from Bio import Phylo
 import textwrap
-counts=pd.read_csv(SRC/'workflow_counts.tsv',sep='\t').set_index('metric')['count'].astype(int).to_dict()
-panel=read('malodor_targeted_genomes.tsv')
-f=plt.figure(figsize=(6.5,6.1));ax=f.add_axes([.02,.02,.96,.96]);ax.set_xlim(0,1);ax.set_ylim(0,1);ax.axis('off')
-blue='#e5edf3';border='#6c7b87';ink='#1e2933'
-def group(x,y,w,h,label):
- ax.add_patch(Rectangle((x,y),w,h,fc='#f7f8f9',ec=border,lw=.7))
- ax.add_patch(Rectangle((x,y+h-.065),w,.065,fc=blue,ec=border,lw=.7))
- ax.text(x+.018,y+h-.0325,label,ha='left',va='center',fontsize=9,weight='bold',color=ink)
-def tile(x,y,w,h,title,body):
- for literal,key in [('371,355','records'),('356,790','unique_ids'),('288,237','quality_pass'),('261,095','named_species'),('53','strict_axillary'),('713','other_skin')]:
-  body=body.replace(literal,format(counts[key],','))
- body=body.replace('186 Genomes: 145 Staphylococcus\nand 41 Corynebacterium',f'{len(panel)} Genomes: {panel.species.str.startswith("Staphylococcus").sum()} Staphylococcus\nand {panel.species.str.startswith("Corynebacterium").sum()} Corynebacterium')
- ax.add_patch(Rectangle((x,y),w,h,fc='white',ec='#8c969e',lw=.6))
- ax.text(x+w/2,y+h-.021,title,ha='center',va='top',fontsize=8,weight='bold',color=ink)
- ax.text(x+w/2,y+h-.059,body,ha='center',va='top',fontsize=7.4,linespacing=1.35,color=ink)
-def arrow(a,b):ax.annotate('',xy=b,xytext=a,arrowprops={'arrowstyle':'-|>','lw':.9,'color':ink,'shrinkA':2,'shrinkB':2})
-group(.015,.715,.97,.27,'Data Curation | Human-Associated Bacterial Genomes From BV-BRC')
-tile(.035,.745,.285,.155,'Remove Duplicate Records','371,355 Records\n↓\n356,790 Unique Genome IDs')
-tile(.36,.745,.285,.155,'Quality and Species Filters','288,237 Quality-Pass Genomes\n↓\n261,095 Named-Species Genomes')
-tile(.685,.745,.28,.155,'Classify Isolation Sites','53 Strict Axillary\n713 Explicit Other Skin\nMixed-Site Labels Kept Separate')
-arrow((.32,.82),(.36,.82));arrow((.645,.82),(.685,.82))
-# Both analysis arms derive from curated metadata; neither is downstream of the other.
-ax.plot([.5,.5],[.715,.675],color=ink,lw=.9);ax.plot([.25,.75],[.675,.675],color=ink,lw=.9)
-arrow((.25,.675),(.25,.635));arrow((.75,.675),(.75,.635))
-group(.015,.035,.47,.60,'A  Gene-Family Associations')
-group(.515,.035,.47,.60,'B  Reference-Protein Comparison')
-tile(.04,.39,.42,.15,'Define Comparison Cohorts','Within-Species and Same-Study Comparisons\nSpecies-Stratified Corynebacterium Analysis')
-tile(.54,.39,.42,.15,'Select the Targeted Panel','186 Genomes: 145 Staphylococcus\nand 41 Corynebacterium\nSix Malodor-Related Protein References')
-tile(.04,.22,.42,.135,'Test PGFam Presence / Absence','Exact Tests and FDR Correction\nControl Sensitivity Analysis')
-tile(.54,.22,.42,.135,'Run BV-BRC BLASTP','Select Best Hits per Genome / Reference\nRetain Identity, Coverage and CDS IDs')
-tile(.04,.055,.42,.13,'Analyze Genomic Neighborhoods','Inspect up to Five Genes on Each Side\nScreen for Mobile / Phage Annotations')
-tile(.54,.055,.42,.13,'Compare Sequences and Phylogenies','Codon Trees With Protein-Similarity Tracks\nExact-CDS Overlap Between References')
-for x in [.25,.75]:arrow((x,.39),(x,.355));arrow((x,.22),(x,.185))
-save(f,1,'Study Design and Computational Analysis Workflow')
 def read(name):return pd.read_csv(SRC/name,sep='\t')
 def dumb(ax,a,b):
  for y,(x,z) in enumerate(zip(a,b)):
